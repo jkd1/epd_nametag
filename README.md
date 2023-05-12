@@ -1,8 +1,10 @@
+<img src="./images/mockup.jpg">
 # EPD 좌석 명찰
 Seat management system using ESP32 and E-ink display
 Lilygo 4.7inch를 이용한 전자잉크 좌석 관리 시스템
 
 # 개요
+<img src="./images/002.PNG">
 
 대량의 점유 / 비점유 좌석을 갖춘 공간을 관리할때에 발생하는 저시인성 문제, 관리 리스크 그리고 일반 사용자로 하여금 불필요한 요소로 여겨지는 등의 문제를 개선해보고자 개발하였습니다.
 
@@ -22,10 +24,12 @@ Lilygo 4.7inch를 이용한 전자잉크 좌석 관리 시스템
 중국의 IoT 장비 전문업체 Lilygo의 4.7inch E-ink Display가 탑재된 ESP32개발보드입니다.
 자체 배터리 보호회로가 내장되어 있어 장기간 운용되는 저전력 E-ink 어플리케이션에 추가적인 가공없이 바로 사용 가능합니다.
 
+<img src="./images/003.PNG">
 **Wallpad dock**
 4.7inch Lilygo 보드에 맞추어 제작된 벽 부착형 도크입니다.
 후면부 커넥터 연결단자를 벽에 안보이게 매립 가능하도록 설계되었습니다.
 
+<img src="./images/001.PNG">
 **DeskTop dock**
 4.7inch Lilygo 보드에 맞추어 제작된 책상 부착형 도크입니다.
 일반적인 책상보다 조금 더 가까운 책상 환경에 맞추어 화면 시인성을 위해 전면 경사도를 17도 가량으로 설정되어있습니다.
